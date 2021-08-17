@@ -42,5 +42,5 @@ class Contact {
     }
 }  
 
-let contact = new Contact("Arijit", "Dey", "Sodepur", "Kolkata", "wb", "123456", "9898989898", "arijit@gmail.com");
+let contact = new Contact("Guru", "V", "T-Nagar", "Chennai", "TN", "600069", "9876543219", "Gurut@gmail.com");
 console.log(contact.toString());
